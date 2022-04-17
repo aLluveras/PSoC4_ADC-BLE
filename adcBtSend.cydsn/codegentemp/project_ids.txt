@@ -1,0 +1,6 @@
+C:\Users\lluveras\Documents\PSoC Creator\adcBLE\adcBtSend.cydsn\adcBtSend.cyprj|dd4d2b04-2a43-4df4-b5e0-6340c93d8891
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0585e099-0136-4ce5-a00c-ab9eabb86a52
+C:\Users\lluveras\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|3f273c92-7cdd-4565-8a65-9e6b49de8930
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5c9b5558-2af8-4861-99b1-aa6a021e5b8b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|34b19c99-3fa1-4b8f-97a9-fc9abb04c5ad
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|51b189d5-8c86-488b-a7af-b62c1f23ae65

@@ -1,0 +1,15 @@
+# adcBtSend
+# 2022-04-16 21:20:02Z
+
+# IO_6@[IOP=(0)][IoId=(6)] is reserved: SWDDebugEnabled
+dont_use_io iocell 0 6
+# IO_7@[IOP=(0)][IoId=(7)] is reserved: SWDDebugEnabled
+dont_use_io iocell 0 7
+dont_use_location LPCOMP -1 -1 0
+dont_use_location p4lpcompcell -1 -1 0
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "photodiode(0)" iocell 1 4
+set_io "OA1out(0)" iocell 1 3
+set_io "ref(0)" iocell 1 5
+set_location "\Opamp:cy_psoc4_abuf\" p4abufcell -1 -1 3
+set_location "\ADC_SAR:cy_psoc4_sar\" p4sarcell -1 -1 0
